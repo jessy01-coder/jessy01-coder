@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessy01-coder
-- Am an android developer and network admin
-- 👀 I’m interested in programming and networking
-- 🌱 I’m currently learning java programming
+- Am an android developer and network  and database admin
+- 👀 I’m interested in programming and networking. I have done introduction to cyber security in cisco.
+- 🌱 I’m currently learning datacom engineering(routing and switchig) in Huawei
 - 💞️ I’m looking to collaborate with other developers around the world to keep level of ICT higher
 - 📫 Reach me at jessekariuki214@gmail.com
 
